@@ -13,7 +13,7 @@ export function Header() {
         <Image src={logo} />
         <InputGroup bg="gray.900" borderRadius="8px" w="520px" h="32px" borderColor="transparent">
           <Input borderRadius="8px" h="32px" />
-          <InputRightElement children={<SearchIcon color="purple.700" boxSize={5} />} />
+          <InputRightElement children={<SearchIcon color="purple.700" boxSize={5} mb={2} />} />
         </InputGroup>
 
         <Grid templateColumns="repeat(4, 1fr)" gap="80px">
