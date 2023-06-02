@@ -31,7 +31,7 @@ export function Header() {
           </GridItem>
         </Grid>
 
-        <Flex flex="row">
+        <Flex flex="row" as="button">
           <Icon as={MdOutlinePerson} boxSize={8} color={'purple.500'} mr="18px" />
           <Icon as={FiSettings} boxSize={7} color={'purple.500'} />
         </Flex>

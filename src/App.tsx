@@ -23,6 +23,13 @@ function App() {
               left="320px"
             />
             <CircleDetail
+              w="20px"
+              shadow="0px 4px 80px rgba(248, 0, 119, 0.48), inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 20px 100px #FF0505"
+              position="absolute"
+              left="250px"
+              top="170px"
+            />
+            <CircleDetail
               mr="27px"
               w="143px"
               shadow="0px 4px 80px rgba(248, 0, 119, 0.48), inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 20px 100px #FF0505"
@@ -85,6 +92,13 @@ function App() {
               bottom="540px"
               left="570px"
             />
+            <CircleDetail
+              w="20px"
+              shadow="0px 4px 80px rgba(248, 0, 119, 0.48), inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 20px 100px #FF0505;"
+              position="absolute"
+              top="260px"
+              left="660px"
+            />
              <CircleDetail
                ml="25px"
                w="120px"
@@ -92,7 +106,20 @@ function App() {
                title="Business"
                value="$21,987"
             />
-            
+            <CircleDetail
+              w="101px"
+              shadow=" 0px 4px 80px rgba(248, 0, 119, 0.48), inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 20px 100px #FF0505"
+              position="absolute"
+              left="740px"
+              top="370px"
+            />
+            <CircleDetail
+              w="20px"
+              shadow="0px 4px 80px rgba(248, 0, 119, 0.48), inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 20px 100px #FF0505"
+              position="absolute"
+              bottom="350px"
+              left="600px"
+            />
             </Center>
           </Box>
         </Flex>
