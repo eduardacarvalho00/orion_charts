@@ -18,7 +18,7 @@ export function CircleDetail({
       w={w}
       h={w}
       borderRadius="full"
-      bg="radial-gradient(96% 96% at 70.4% 31.2%, #030092 0%, rgba(0, 2, 16, 0) 100%)"
+      bg="radial-gradient(96% 96% at 70.4% 31.2%, #3244E8 0%, rgba(0, 2, 16, 0) 100%) "
       boxShadow={shadow}
       flexDir="column"
       {...rest}

@@ -5,7 +5,7 @@ import {
 } from '@chakra-ui/react';
 import { MdOutlinePerson } from 'react-icons/md';
 import { FiSettings } from 'react-icons/fi';
-import logo from '../../assets/logo.png';
+import logo from '../assets/logo.png';
 
 export function Header() {
   return (
