@@ -108,9 +108,26 @@ function App() {
               left="220px"
               bottom="400px"
             />
-            <CircleDetail w="64px" shadow="0px 4px 80px #2300F8, inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95)" position="absolute" left="65px" top="260px" />
-            <CircleDetail w="64px" shadow="0px 4px 80px #2300F8, inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95)" position="absolute" left="10px" />
-            <CircleDetail w="64px" shadow="0px 4px 80px #2300F8, inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95)" position="absolute" left="65px" bottom="140px" />
+            <CircleDetail
+              w="64px"
+              shadow="0px 4px 80px #2300F8, inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95)"
+              position="absolute"
+              left="65px"
+              top="260px" 
+            />
+            <CircleDetail
+              w="64px"
+              shadow="0px 4px 80px #2300F8, inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95)"
+              position="absolute"
+              left="10px" 
+            />
+            <CircleDetail
+              w="64px"
+              shadow="0px 4px 80px #2300F8, inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95)"
+              position="absolute"
+              left="65px"
+              bottom="140px" 
+            />
             <CircleDetail
               w="101px"
               shadow=" 0px 4px 80px rgba(248, 0, 119, 0.48), inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 20px 100px #FF0505"
@@ -162,7 +179,13 @@ function App() {
               bottom="540px"
               left="570px"
             />
-            <CircleDetail w="105px" shadow="0px 4px 80px #2300F8, inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95)" position="absolute" left="800px" top="130px" />
+            <CircleDetail
+              w="105px"
+              shadow="0px 4px 80px #2300F8, inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95)"
+              position="absolute"
+              left="800px"
+              top="130px" 
+            />
             <CircleDetail20px
               top="260px"
               left="660px" 
@@ -181,7 +204,13 @@ function App() {
               left="740px"
               top="370px"
             />
-             <CircleDetail w="64px" shadow="0px 4px 80px #2300F8, inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95)" position="absolute" top="500px" left="800px" />
+            <CircleDetail
+              w="64px"
+              shadow="0px 4px 80px #2300F8, inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95)"
+              position="absolute"
+              top="500px"
+              left="800px" 
+            />
             <CircleDetail20px
               bottom="350px"
               left="600px" 
