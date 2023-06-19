@@ -6,7 +6,7 @@ import cicleChart from '../../assets/circleChart.png';
 import graphPink from '../../assets/graphPink.png';
 import graphGreen from '../../assets/graphGreen.png';
 import graphYellow from '../../assets/graphYellow.png';
-import { StatCard } from './statCard';
+import { StatCard } from './StatCard';
 
 export function CardStatistics() {
   return (

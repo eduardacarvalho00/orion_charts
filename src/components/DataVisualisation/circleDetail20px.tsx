@@ -1,4 +1,4 @@
-import { CircleDetail } from './circleDetail';
+import { CircleDetail } from './CircleDetail';
 
 interface CircleDetail20pxProps{
   top?: string;
