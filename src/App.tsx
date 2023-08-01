@@ -7,6 +7,7 @@ import { CardInformation } from './components/DataVisualisation/CardInformation'
 import { CardTimeRange } from './components/DataVisualisation/TimeRange/CardTimeRange';
 import { Header } from './components/Header';
 import { CardStatistics } from './components/Statistics/CardStatistics';
+import { Footer } from './components/Footer';
 
 function App() {
   return (
@@ -94,6 +95,7 @@ function App() {
           
         </Flex>
       </Flex>
+      <Footer/>
     </>
   );
 }
